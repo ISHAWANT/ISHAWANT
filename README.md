@@ -34,9 +34,10 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=ishawant&theme=gotham&hide_border=true'>
 </p>
 
-<h5 align="left">Connect with me:</h5>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishawant-kumar-4b71571a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishawant-kumar-4b71571a7/" height="30" width="40" /></a>
-</p>
+<a href = "https://www.linkedin.com/in/ishawant-kumar-4b71571a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "hhttps://twitter.com/IshawantKumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href = "https://www.instagram.com/pawan_118/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
