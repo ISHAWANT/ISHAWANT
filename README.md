@@ -38,6 +38,6 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/ishawant-kumar-4b71571a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "hhttps://twitter.com/IshawantKumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href = "https://www.instagram.com/pawan_118/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href = "https://www.instagram.com/pawan_kr_67/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
